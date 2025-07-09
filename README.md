@@ -28,9 +28,12 @@ cloud-migration-tracker-json-risk/
 
 ---
 
-## 🧠 Architecture Diagram
+### 🧠 Architecture Diagram
 
-![Architecture](cloud_migration_architecture_diagram_clean.png)
+<p align="center">
+  <img src="cloud_migration_architecture_diagram_clean.png" alt="Architecture Diagram" width="600">
+</p>
+
 
 ---
 
