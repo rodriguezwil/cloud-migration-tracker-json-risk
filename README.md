@@ -26,14 +26,6 @@ cloud-migration-tracker-json-risk/
 ├── README.md                 → Full documentation and project overview
 ```
 
----
-
-### 🧠 Architecture Diagram
-
-<p align="center">
-  <img src="cloud_migration_architecture_diagram_clean.png" alt="Architecture Diagram" width="600">
-</p>
-
 
 ## 🧰 Technologies Used
 
