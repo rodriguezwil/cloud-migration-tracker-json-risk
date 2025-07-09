@@ -33,12 +33,7 @@ cloud-migration-tracker-json-risk/
 <p align="center">
   <img src="cloud_migration_architecture_diagram_clean.png" alt="Architecture Diagram" width="600">
 </p>
----
 
-## 📊 Sample Output
-![Risk Severity Chart](risk_severity_chart.png)
-
----
 
 ## 🧰 Technologies Used
 
