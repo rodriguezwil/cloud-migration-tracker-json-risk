@@ -21,7 +21,12 @@ This dashboard helps organizations:
 
 <img src="risk_severity_chart.png" alt="Risk Breakdown" width="400"/>
 
-![Architecture](architecture_diagram.png)
+### 🧩 Architecture Diagram
+
+<p align="center">
+  <img src="architecture_diagram.png" alt="Architecture Diagram" width="500">
+</p>
+
 
 ## 🧠 AI/Cloud Skills Demonstrated
 
