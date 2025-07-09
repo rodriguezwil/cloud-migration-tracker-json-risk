@@ -18,11 +18,10 @@ This dashboard helps organizations:
 - **Risk Severity Breakdown** (pie chart)
 - **Clean Project Summary Table**
 
+
+<img src="risk_severity_chart.png" alt="Risk Breakdown" width="400"/>
+
 ![Architecture](architecture_diagram.png)
-
-![Risk Breakdown](risk_severity_chart.png)
-
-
 
 ## 🧠 AI/Cloud Skills Demonstrated
 
