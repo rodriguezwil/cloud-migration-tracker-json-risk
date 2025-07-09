@@ -36,14 +36,6 @@ Designed for **PMO teams**, **cloud architects**, and **enterprise transformatio
 
 ---
 
-## 🧩 Architecture Diagram
-
-<p align="center">
-  <img src="architecture_diagram.png" alt="Architecture Diagram" width="500">
-</p>
-
----
-
 ## 📊 Risk Severity Breakdown
 
 <p align="center">
